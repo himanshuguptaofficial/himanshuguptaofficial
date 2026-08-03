@@ -11,6 +11,8 @@
 | 03 | Time-dependent ROC | Does the lncRNA signature beat FIGO stage and age predictions of disease outcome? | 5-year AUC 0.748 against 0.480 (age) and 0.471 (stage) |
 | 04 | Pathway enrichment | Which biological pathways are associated with the lncRNA signature? | Overwhelmingly immune, cytokine and T-cell signaling |
 
+[Repository containing these projects]: https://github.com/himanshuguptaofficial/Bioinformatics-Developmental-Projects))]
+
 <h2>  Connect with me:</h2>
 
 [<img align="left" alt="Himanshu Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
